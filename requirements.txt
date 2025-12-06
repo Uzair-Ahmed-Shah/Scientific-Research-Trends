@@ -1,0 +1,15 @@
+External Libraries:
+- numpy
+- pandas
+- matplotlib (pyplot)
+- scikit-learn (TfidfVectorizer, CountVectorizer, LatentDirichletAllocation)
+- networkx
+- seaborn
+- pyvis (pyvis.network.Network)
+
+Standard Library:
+- os
+- re
+- ast
+- collections (Counter)
+- itertools (chain, combinations)
